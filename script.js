@@ -2,7 +2,7 @@ function firstChar(text) {
   // your code here
 	
 
-  for (let char of str) {
+  for (let char of text) {
     if (char !== ' ') {
       return char; 
     }
